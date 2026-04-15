@@ -1,0 +1,6 @@
+{
+  "name": "Mesh Gradient Generator",
+  "description": "A tool to generate and download beautiful mesh, linear, and radial gradients with customizable noise and animation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
